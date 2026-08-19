@@ -1,0 +1,1 @@
+print("division of 2 numbers is:", 10 / 2)
